@@ -1,6 +1,6 @@
 
 import kotlin.random.Random //random
-import kotlin.math.sqrt
+import kotlin.math.sqrt //sqrt
 import kotlin.math.pow //math
 
 fun main()
